@@ -8,12 +8,12 @@ body{
     background: color #f4f4f4;
 }
 header{
-    background: color #370707;
+    background-color: #370707;
     color:white;
-    text-align:white;
+    text-align:center;
     padding:1em;
 }
 .img-perfil{
-    width:15%;
-    border-radius:20%;
+    width:20%;
+    border-radius:50%;
 }
